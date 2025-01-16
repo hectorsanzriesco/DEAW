@@ -1,1 +1,1 @@
-"Contenido del archivo 2.txt" 
+"Contenido del fichero 2.txt" 
